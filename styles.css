@@ -1,0 +1,23 @@
+body {
+  font-family: "Lucida Grande", Verdana, Tahoma, Arial, sans-serif;
+  background-image: url(https://www.sonicscoop.com/wp-content/themes/sonic/images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.container {
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+    background: #fff;
+    padding: 25px;
+    min-height: 50vh;
+}
+
+.container .coming-soon {
+  margin-top: 50px;
+}
+
+.footer-copy {
+  text-align: center;
+}
